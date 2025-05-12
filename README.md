@@ -1,1 +1,2 @@
-[![Luc654's GitHub stats](https://github-readme-stats.vercel.app/api?username=luc654)](https://github.com/anuraghazra/github-readme-stats)
+[![Luc654's GitHub stats](https://github-readme-stats.vercel.app/api?username=luc654&card_width=450&show_icons=true&title_color=2f81f7&text_color=e6edf3&icon_color=2f81f7&border_color=0d1117&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc654&card_width=450&title_color=2f81f7&text_color=e6edf3&icon_color=2f81f7&border_color=0d1117&bg_color=0d1117)
